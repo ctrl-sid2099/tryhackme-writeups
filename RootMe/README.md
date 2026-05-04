@@ -156,7 +156,7 @@ http://<Target-IP>/Hidden2
 
 Click the uploaded file.
 
-<img width="633" height="343" alt="8 uploads" src="https://github.com/user-attachments/assets/56f013c8-5fd5-4f91-8ff1-3ad56172f805" />
+<img width="633" height="343" alt="8 uploads" src="https://github.com/user-attachments/assets/2f43a2c8-f99e-4854-a8dc-62281c9764cd" />
 
 ### 🎯 Result:
 
