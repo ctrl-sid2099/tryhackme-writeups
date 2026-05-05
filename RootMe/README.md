@@ -1,4 +1,4 @@
-# 🧪 RootMe Lab Writeup (With Explanation)
+# 🧪 RootMe Lab Writeup 
 
 ## 📌 Overview
 
