@@ -96,6 +96,8 @@ The alert was triggered solely due to the presence of an external onboarding lin
 ## 🎯 Final Verdict
 
 ✅ False Positive
+
+
 No malicious activity detected.
 
 ---
@@ -229,6 +231,8 @@ Further investigation was necessary to ensure no additional systems or users wer
 ## 🎯 Final Verdict
 
 ✅ True Positive
+
+
 ✅ Escalated for further investigation
 
 ---
@@ -325,7 +329,11 @@ Escalation was required to:
 ## 🎯 Final Verdict
 
 ✅ True Positive
+
+
 ✅ Escalated
+
+
 🛡️ Firewall successfully blocked the malicious connection attempt
 
 ---
@@ -465,6 +473,8 @@ Immediate investigation was necessary to:
 ## 🎯 Final Verdict
 
 ✅ True Positive
+
+
 ✅ Escalated for further investigation
 
 ---
