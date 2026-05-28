@@ -24,7 +24,6 @@
 | Severity | Medium                                            |
 | Type     | Phishing                                          |
 
-<img width="1239" height="484" alt="2" src="https://github.com/user-attachments/assets/23031c17-3b58-4936-bd7b-63fe416892b4" />
 
 ### 📧 Email Summary
 
@@ -539,6 +538,8 @@ The investigations demonstrated how phishing campaigns use impersonation, shorte
 ---
 
 🏆 Room Status: Completed Successfully
+
+
 👩‍💻 Author: ctrl-sid2099
 
 
