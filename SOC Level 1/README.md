@@ -112,7 +112,4 @@ All content is based on labs and training environments provided by TryHackMe and
 
 </div>
 
----
 
-## Author
-ctrl-sid2099
